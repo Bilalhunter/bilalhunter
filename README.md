@@ -5,7 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭**Bilalhunter/bilalhunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+As a certified fitness coach, I also help people build strong bodies and strong minds. My approach combines discipline, goal setting, and mental clarity — values I bring into all areas of my life.
+
+🌍 Vision: To be a global influencer in tech, content, and fitness — inspiring the next generation to think smarter, live healthier, and build fearlessly.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
