@@ -1,4 +1,4 @@
- Professional YouTuber | Tech Enthusiast | Fitness Trainer | Software Developer
+ Professional YouTuber | Tech Enthusiast | Fitness Trainer 
 
 I am Bilal Asghar, a visionary content creator and software developer passionate about merging technology, storytelling, and self-discipline. With a background in Computer Science from Pak-Austria University and professional expertise in video editing, programming, and fitness, I aim to inspire, educate, and innovate.
 
@@ -9,6 +9,4 @@ Parallel to my media journey, I am committed to excelling in the tech world. Wit
 As a certified fitness coach, I also help people build strong bodies and strong minds. My approach combines discipline, goal setting, and mental clarity — values I bring into all areas of my life.
 
 🌍 Vision: To be a global influencer in tech, content, and fitness — inspiring the next generation to think smarter, live healthier, and build fearlessly.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
